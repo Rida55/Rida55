@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rida55
 - 👀 I’m interested in research
-- 🌱 I’m currently learning React native
+- 🌱 I’m experienced React,React native developer
 - 💞️ I’m looking to collaborate on computer science
 - 📫 How to reach me ...
 
